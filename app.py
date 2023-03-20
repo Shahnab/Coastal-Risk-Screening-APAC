@@ -10,100 +10,100 @@ st.write('For more information can use Climate Central coastal portal [link](htt
 tab1, tab2, tab3, tab4, tab5, tab6, tab7, tab8, tab9, tab10, tab11 = st.tabs(["Singapore", "Bangladesh", "Malaysia", "Thailand" , "Vietnam","India","China","Korea","Japan","Brunei","SriLanka"])
 
 with tab1:
-st.markdown("### Singapore")
-image_comparison(
-    img1="Singapore2022.jpg",
-    img2="Singapore2030.jpg",
-    label1="2022",
-    label2="2030",
+    st.markdown("### Singapore")
+    image_comparison(
+        img1="Singapore2022.jpg",
+        img2="Singapore2030.jpg",
+        label1="2022",
+        label2="2030",
 )
 
 with tab2:
-st.markdown("### Bangladesh")
-image_comparison(
-    img1="Bangladesh2022.jpg",
-    img2="Bangladesh2030.jpg",
-    label1="2022",
-    label2="2030",
+    st.markdown("### Bangladesh")
+    image_comparison(
+        img1="Bangladesh2022.jpg",
+        img2="Bangladesh2030.jpg",
+        label1="2022",
+        label2="2030",
 )
 
 with tab3:
-st.markdown("### Malaysia")
-image_comparison(
-    img1="Malaysia2022.jpg",
-    img2="Malaysia2030.jpg",
-    label1="2022",
-    label2="2030",
+    st.markdown("### Malaysia")
+    image_comparison(
+        img1="Malaysia2022.jpg",
+        img2="Malaysia2030.jpg",
+        label1="2022",
+        label2="2030",
 )
 
 with tab4:
-st.markdown("### Thailand")
-image_comparison(
-    img1="Thailand2022.jpg",
-    img2="Thailand2030.jpg",
-    label1="2022",
-    label2="2030",
+    st.markdown("### Thailand")
+    image_comparison(
+        img1="Thailand2022.jpg",
+        img2="Thailand2030.jpg",
+        label1="2022",
+        label2="2030",
 )
 
 with tab5:
-st.markdown("### Vietnam")
-image_comparison(
-    img1="Vietnam2022.jpg",
-    img2="Vietnam2030.jpg",
-    label1="2022",
-    label2="2030",
+    st.markdown("### Vietnam")
+    image_comparison(
+        img1="Vietnam2022.jpg",
+        img2="Vietnam2030.jpg",
+        label1="2022",
+        label2="2030",
 )
 
 with tab6:
-st.markdown("### India")
-image_comparison(
-    img1="India2022.jpg",
-    img2="India2030.jpg",
-    label1="2022",
-    label2="2030",
+    st.markdown("### India")
+    image_comparison(
+        img1="India2022.jpg",
+        img2="India2030.jpg",
+        label1="2022",
+        label2="2030",
 )
 
 with tab7:
-st.markdown("### China")
-image_comparison(
-    img1="China2022.jpg",
-    img2="China2030.jpg",
-    label1="2022",
-    label2="2030",
+    st.markdown("### China")
+    image_comparison(
+        img1="China2022.jpg",
+        img2="China2030.jpg",
+        label1="2022",
+        label2="2030",
 )
 
 with tab8:
-st.markdown("### Korea")
-image_comparison(
-    img1="Korea2022.jpg",
-    img2="Korea2030.jpg",
-    label1="2022",
-    label2="2030",
+    st.markdown("### Korea")
+    image_comparison(
+        img1="Korea2022.jpg",
+        img2="Korea2030.jpg",
+        label1="2022",
+        label2="2030",
 )
 
 with tab9:
-st.markdown("### Japan")
-image_comparison(
-    img1="Japan2022.jpg",
-    img2="Japan2030.jpg",
-    label1="2022",
-    label2="2030",
+    st.markdown("### Japan")
+    image_comparison(
+        img1="Japan2022.jpg",
+        img2="Japan2030.jpg",
+        label1="2022",
+        label2="2030",
 )
 
 with tab10:
-st.markdown("### Brunei")
-image_comparison(
-    img1="Brunei2022.jpg",
-    img2="Brunei2030.jpg",
-    label1="2022",
-    label2="2030",
+    st.markdown("### Brunei")
+    image_comparison(
+        img1="Brunei2022.jpg",
+        img2="Brunei2030.jpg",
+        label1="2022",
+        label2="2030",
 )
 
 with tab11:
-st.markdown("### Srilanka")
-image_comparison(
-    img1="Srilanka2022.jpg",
-    img2="Srilanka2030.jpg",
-    label1="2022",
-    label2="2030",
+    st.markdown("### Srilanka")
+    image_comparison(
+        img1="Srilanka2022.jpg",
+        img2="Srilanka2030.jpg",
+        label1="2022",
+        label2="2030",
 )
